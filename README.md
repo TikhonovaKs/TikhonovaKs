@@ -47,10 +47,6 @@ In 2021, I started my IT journey as a tester but gradually got captivated by the
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -59,7 +55,7 @@ In 2021, I started my IT journey as a tester but gradually got captivated by the
 <a href="https://github.com/TikhonovaKs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ksenia-tikhonova/" target="_blank">
+<a href="https://linkedin.com/in/ksenia-tikhonova/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
