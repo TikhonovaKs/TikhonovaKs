@@ -25,7 +25,7 @@ In 2021, I started my IT journey as a tester but gradually got captivated by the
 ### Github Stats   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TikhonovaKs&hide_border=true&layout=compact" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api?username=TikhonovaKs&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=TikhonovaKs&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
 <br/>  
 
