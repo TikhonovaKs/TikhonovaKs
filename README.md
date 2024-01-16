@@ -1,7 +1,5 @@
-## <div align="center">Hi, my name is Kseniia!</div>  
-## <div align="center">I'm a frontend developer</div> 
+## Hi, my name is Kseniia! I'm a frontend developer
   
-
 ### About me
 ---
 <br/> 
