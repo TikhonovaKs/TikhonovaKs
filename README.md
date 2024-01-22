@@ -13,7 +13,7 @@ In 2021, I started my IT journey as a tester but gradually got captivated by the
 
 <br/>  
 
-### Contact
+### My contact
 
 Feel free to reach out to me using the following contact information:
 
