@@ -13,6 +13,14 @@ In 2021, I started my IT journey as a tester but gradually got captivated by the
 
 <br/>  
 
+### Contact
+
+Feel free to reach out to me using the following contact information:
+
+- Email: [tikhonovakb@gmail.com](mailto:tikhonovakb@gmail.com)
+- LinkedIn: [Ksenia Tikhonova](https://www.linkedin.com/in/ksenia-tikhonova/)
+
+<br/> 
 
 ### Languages and Tools
 ---
