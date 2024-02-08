@@ -3,7 +3,7 @@
 <h3 align="center" style="color:#000000;">A PASSIONATE FRONTEND DEVELOPER AVIDLY EXPLORING THE WORLD OF IT</h3>
 
 <div align="center">
-  <img height="150" src="https://pin.it/5KWEC5GhP"  />
+  <img height="150" src="[https://pin.it/5KWEC5GhP](https://i.pinimg.com/originals/13/2a/33/132a3303351f65fbeb4e9d1eab996ecd.jpg)" />
 </div>
 
 ###
