@@ -1,6 +1,5 @@
-<img src="https://i.pinimg.com/originals/13/2a/33/132a3303351f65fbeb4e9d1eab996ecd.jpg" width="200" />
 <div align="center">
-  <img height="150" src="[https://pin.it/5KWEC5GhP](https://i.pinimg.com/originals/13/2a/33/132a3303351f65fbeb4e9d1eab996ecd.jpg)" />
+  <img align="right" src="https://i.pinimg.com/originals/13/2a/33/132a3303351f65fbeb4e9d1eab996ecd.jpg" width="200" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/ksenia-tikhonova/" target="_blank">
