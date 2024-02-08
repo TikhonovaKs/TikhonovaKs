@@ -1,7 +1,7 @@
 <div align="center">
   <h2 style="display: inline-block; text-align: left;">Hi, I'm Kseniia</h2>
   <p align="center"><em>A passionate frontend developer avidly exploring the world of IT</em></p>
-  <img style="float: right;" src="https://i.pinimg.com/originals/13/2a/33/132a3303351f65fbeb4e9d1eab996ecd.jpg" width="200" />
+  <img style="float: right;" src="https://i.pinimg.com/originals/13/2a/33/132a3303351f65fbeb4e9d1eab996ecd.jpg" width="250" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/ksenia-tikhonova/" target="_blank">
@@ -9,10 +9,7 @@
   </a>
 </div>
 
-
-
-###
-###
+<br>
 
 <h2 align="left">I code with</h2>
 
