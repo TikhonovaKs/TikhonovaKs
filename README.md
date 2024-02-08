@@ -1,17 +1,10 @@
-## Hi, I'm Kseniia, I'm a frontend developer
-<br/>  
-  
-### About me
---- 
-In 2021, I started my IT journey as a tester but gradually got captivated by the IT world. Testing is about finding flaws in software, while programming is about building things. In 2023, I decided that creating is more important for me, completing a successful 10-month online course from Yandex, guided by experienced programmers.
+<h1 align="center">Hi, I'm Kseniia</h1>
+<h3 align="center">A passionate frontend developer avidly exploring the world of IT</h3>
 
-***My current goal is*** ⚡  
-* to improve my technical skills  
-* to gain teamwork experience  
-* to get hands-on practice in the fall of 2024  
-  
-
-<br/>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ksenia-tikhonova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksenia-tikhonova" height="30" width="40" /></a>
+</p>
 
 ### My contact
 --- 
