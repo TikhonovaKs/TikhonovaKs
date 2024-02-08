@@ -7,8 +7,8 @@
   </a>
 </div>
 
-<h1 align="left">Hi, I'm Kseniia</h1>
-<h3 align="left">A passionate frontend developer avidly exploring the world of IT</h3>
+<h2 align="left">Hi, I'm Kseniia</h2>
+<p align="left"><em>A passionate frontend developer avidly exploring the world of IT</em></p>
 
 
 
