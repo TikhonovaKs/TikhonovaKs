@@ -8,7 +8,7 @@
 </div>
 
 <h2 align="left">Hi, I'm Kseniia</h2>
-<h4 align="left"><em>A passionate frontend developer avidly exploring the world of IT</em></h4>
+<p align="left"><em>A passionate frontend developer avidly exploring the world of IT</em></p>
 
 ###
 
