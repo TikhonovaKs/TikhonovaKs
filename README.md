@@ -11,7 +11,7 @@
 
 <br>
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">Currently learning</h2>
+<h3 align="left">Currently learning</h3>
 
 ###
 
@@ -42,6 +42,10 @@
 </div>
 
 ###
+
+<br>
+
+
 
 
 
