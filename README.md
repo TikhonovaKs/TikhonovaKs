@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Kseniia</h1>
-<h3 align="center">A passionate frontend developer avidly exploring the world of IT</h3>
+<h1 align="center" style="color:#FF69B4;">HI, I'M KSENIIA</h1>
+
+<h3 align="center" style="color:#000000;">A PASSIONATE FRONTEND DEVELOPER AVIDLY EXPLORING THE WORLD OF IT</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
