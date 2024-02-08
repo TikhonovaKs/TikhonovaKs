@@ -1,4 +1,4 @@
-## Hi, my name is Kseniia! I'm a frontend developer
+## Hi, I'm Kseniia, I'm a frontend developer
 <br/>  
   
 ### About me
